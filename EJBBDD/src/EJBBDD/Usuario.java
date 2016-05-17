@@ -5,9 +5,9 @@ public class Usuario {
 	String DNI;
 	String Nombre;
 	String Contraseña;
-	//Hola
+	
 	public Usuario(String codigo_Socio, String dni, String nombre, String contraseña) {
-		super();
+		
 		Codigo_Socio = codigo_Socio;
 		DNI = dni;
 		Nombre = nombre;
